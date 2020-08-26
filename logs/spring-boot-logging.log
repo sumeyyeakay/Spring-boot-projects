@@ -1,0 +1,15 @@
+2020-08-26 16:56:53,172 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogApplication on DESKTOP-1Q3EOUE with PID 20960 (C:\Users\sümeyye akay\Desktop\spring-boot\spring-boot-logging\target\classes started by sumeyyeakay in C:\Users\sümeyye akay\Desktop\spring-boot)
+2020-08-26 16:56:53,179 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: PROD
+2020-08-26 16:56:54,460 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-08-26 16:56:54,471 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-08-26 16:56:54,472 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-26 16:56:54,577 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-08-26 16:56:54,577 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1309 ms
+2020-08-26 16:56:54,809 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-26 16:56:55,122 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-26 16:56:55,140 INFO org.springframework.boot.StartupInfoLogger [main] Started LogApplication in 3.098 seconds (JVM running for 6.468)
+2020-08-26 16:57:00,843 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-26 16:57:00,843 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-26 16:57:00,853 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 10 ms
+2020-08-26 16:57:00,885 DEBUG com.sumeyyeakay.logging.api.LogEndPoint [http-nio-8080-exec-1] get details method started
+2020-08-26 16:57:00,886 DEBUG com.sumeyyeakay.logging.api.LogEndPoint [http-nio-8080-exec-1] get details method started
