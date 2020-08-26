@@ -25,3 +25,5 @@
     loglari devredecegimiz instance (Her classa ozel olacaktir.)
     Logger logger = LoggerFactory.getLogger(LogEndPoint.class);
     her sinif icin belirtmek yerine ; @Slf4j diyebiliriz.
+
+https://docs.spring.io/spring-boot/docs/2.1.1.RELEASE/reference/html/boot-features-logging.html
