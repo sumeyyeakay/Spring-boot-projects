@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequiredArgsConstructor
 public class ResourceController {
 
-    @Value("${haydikodlayalim.kafka.topic}")
+    @Value("${sumeyyeakay.kafka.topic}")
     private String topic;
 
     private final KafkaTemplate<String, KMessage> kafkaTemplate;
