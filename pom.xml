@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-boot-logging</module>
+        <module>spring-boot-learning-API</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
