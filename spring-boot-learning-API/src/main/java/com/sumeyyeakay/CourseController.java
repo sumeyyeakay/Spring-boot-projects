@@ -24,7 +24,6 @@ public class CourseController {
      *                 new Topics("spring", "Spring Framework", "spring framework Description")
      *         );
      */
-
     @Autowired
     private CourseService courseService;
 

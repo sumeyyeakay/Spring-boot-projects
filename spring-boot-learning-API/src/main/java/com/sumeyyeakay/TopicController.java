@@ -23,7 +23,6 @@ public class TopicController {
      *                 new Topics("spring", "Spring Framework", "spring framework Description")
      *         );
      */
-
     //servisi tanimladik
     @Autowired
     private TopicService topicService;
