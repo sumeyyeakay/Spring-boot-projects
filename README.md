@@ -1,7 +1,7 @@
 # Spring-boot-projects
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Spring Boot Swagger Documentation
+# Spring Boot Swagger 
 
 Web API geliştirmede en önemli ihtiyaçlardan biri dökümantasyon ihtiyacıdır.
 Çünkü API metodlarının ne işe yaradığı ve nasıl kullanıldığı dökümantasyon içerisinde olması gerekir. Bu dökümantasyon her zaman güncel tutulmalıdır. 
