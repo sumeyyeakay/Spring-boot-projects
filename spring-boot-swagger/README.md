@@ -8,7 +8,7 @@ Bununla birlikte bu ihtiyacımızı giderecek swagger ortaya çıkmıştır.
 * Swagger sitesinde bir çok programlama dili ve framework için kullanılması gereken yapı hakkında bilgi yer almaktadır.
 * Spring içinse SpringFox çıkarılmıştır.
 * Dependency olarak projemize ekleyebiliriz. 
-     <dependency>
+*     <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger2</artifactId>
             <version>2.9.2</version>
