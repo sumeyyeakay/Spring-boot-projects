@@ -1,4 +1,4 @@
-package com.sumeyyeakay;
+package com.sumeyyeakay.controller;
 
 import com.sumeyyeakay.model.Course;
 import com.sumeyyeakay.model.Topic;
