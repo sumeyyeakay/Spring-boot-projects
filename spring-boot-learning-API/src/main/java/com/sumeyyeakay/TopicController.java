@@ -1,4 +1,4 @@
-package com.sumeyyeakay.controller;
+package com.sumeyyeakay;
 
 import com.sumeyyeakay.model.Topic;
 import com.sumeyyeakay.service.TopicService;

@@ -6,7 +6,8 @@
     <modules>
         <module>spring-boot-logging</module>
         <module>spring-boot-learning-API</module>
-    </modules>
+		<module>spring-boot-swagger</module>
+	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
