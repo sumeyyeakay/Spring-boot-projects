@@ -18,9 +18,10 @@ Bununla birlikte bu ihtiyacımızı giderecek swagger ortaya çıkmıştır.
         
         
 * Projemizde gerekli ayarlamaları yaptıktan sonra projeyi ayağa kaldırdığımızda her zaman görmüş olduğumuz JSON formatında API değerlerimizi görürüz.
-            <img width="696" alt="Screenshot 2020-09-05 16 04 46" src="https://user-images.githubusercontent.com/34593997/92305625-a96cd600-ef91-11ea-93ef-6e9deeaeae93.png">
+            
+     <img width="696" alt="Screenshot 2020-09-05 16 04 46" src="https://user-images.githubusercontent.com/34593997/92305625-a96cd600-ef91-11ea-93ef-6e9deeaeae93.png">
 
-* Swagger ile;
+## Swagger ile;
 * Projemizde konsolda log kısmına baktığımızda 
 * Mapped URL path [/v2/api-docs] ...bize böyle bir değer vermektedir. verdiği bu path bizim Swagger dokümantasyonumuzdur.
 * Bu URL'e gitmek için; http://localhost:8080/v2/api-docs gideriz. 
