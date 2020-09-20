@@ -22,7 +22,7 @@ Bununla birlikte bu ihtiyacımızı giderecek swagger ortaya çıkmıştır.
  <img width="696" alt="Screenshot 2020-09-05 16 04 46" src="https://user-images.githubusercontent.com/34593997/92305625-a96cd600-ef91-11ea-93ef-6e9deeaeae93.png">
 
 ## Swagger ile;
-* Projemizde konsolda log kısmına baktığımızda  Mapped URL path [/v2/api-docs] ...bize böyle bir değer vermektedir. verdiği bu path bizim Swagger dokümantasyonumuzdur.
+* Projemizde konsolda log kısmına baktığımızda  Mapped URL user [/v2/api-docs] ...bize böyle bir değer vermektedir. verdiği bu user bizim Swagger dokümantasyonumuzdur.
 * Bu URL'e gitmek için; http://localhost:8080/v2/api-docs gideriz. 
 
  <img width="697" alt="Screenshot 2020-09-05 15 46 36" src="https://user-images.githubusercontent.com/34593997/92305580-42e7b800-ef91-11ea-8924-5343a70989f0.png">
@@ -40,7 +40,7 @@ Bununla birlikte bu ihtiyacımızı giderecek swagger ortaya çıkmıştır.
             <artifactId>springfox-swagger-ui</artifactId>
             <version>2.9.2</version>
         </dependency>
-* Kullanımı ise http://localhost:8080/swagger-ui.html#/path-controller adresine giderek daha düzgün bir arayüze sahip olarak aynı işlemleri gerçekleştirebiliyor olmamızdır.
+* Kullanımı ise http://localhost:8080/swagger-ui.html#/user-controller adresine giderek daha düzgün bir arayüze sahip olarak aynı işlemleri gerçekleştirebiliyor olmamızdır.
 
 <img width="697" alt="Screenshot 2020-09-05 15 53 43" src="https://user-images.githubusercontent.com/34593997/92305599-6b6fb200-ef91-11ea-94d3-ba6019ad570f.png">
         
