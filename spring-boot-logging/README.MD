@@ -1,4 +1,4 @@
-#Loglama
+# Loglama
 
 *  Loglama -> Asenkron olmalidir. 
     Bunu yapmazsak uygulama performansi biraz kaybedilmis olur.       
