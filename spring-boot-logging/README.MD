@@ -1,4 +1,6 @@
- *  Loglama -> Asenkron olmalidir. 
+#Loglama
+
+*  Loglama -> Asenkron olmalidir. 
     Bunu yapmazsak uygulama performansi biraz kaybedilmis olur.       
     Request boylece gecikmemis olacaktir.
     Arkaplanda calismasi icin ve boylece performans kaybi yasayamayacagiz.
