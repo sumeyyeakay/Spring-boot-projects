@@ -47,4 +47,6 @@ Bununla birlikte bu ihtiyacımızı giderecek swagger ortaya çıkmıştır.
 
 <img width="697" alt="Screenshot 2020-09-05 15 53 43" src="https://user-images.githubusercontent.com/34593997/92305599-6b6fb200-ef91-11ea-94d3-ba6019ad570f.png">
         
+Swagger ile ilgili daha kapsamlı bilgi edinmek için makaleme göz atabilirsiniz.        
+https://medium.com/@sumeyyeakayy/spring-boot-ile-swagger-kullanımı-14ae99c6eca7        
 
